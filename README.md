@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @locser
-- 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java and Angular
+- 📫 How to reach me: ploc280301@gmail.com
 
 <!---
 locser/locser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
