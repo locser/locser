@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @locser
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java and Angular
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me: -
   Email: ploc280301@gmail.com
   Facebook: [Phạm Hữu Lộc](https://www.facebook.com/Locser.fly.29/)
